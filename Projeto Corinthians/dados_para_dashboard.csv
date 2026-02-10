@@ -1,0 +1,39 @@
+﻿utcDate,Adversario,Mando,Resultado,Gols_Pro,Gols_Contra,Saldo,Pontos,Pontos_Acumulados
+2024-04-14T19:00:00Z,CA Mineiro,Casa,Empate,0,0,0,1,1
+2024-04-17T23:00:00Z,EC Juventude,Fora,Derrota,0,2,-2,0,1
+2024-04-20T21:30:00Z,RB Bragantino,Fora,Derrota,0,1,-1,0,1
+2024-04-28T19:00:00Z,Fluminense FC,Casa,Vitória,3,0,3,3,4
+2024-05-05T00:00:00Z,Fortaleza EC,Casa,Empate,0,0,0,1,5
+2024-05-11T19:00:00Z,CR Flamengo,Fora,Derrota,0,2,-2,0,5
+2024-06-02T00:00:00Z,Botafogo FR,Casa,Derrota,0,1,-1,0,5
+2024-06-11T22:00:00Z,AC Goianiense,Fora,Empate,2,2,0,1,6
+2024-06-16T19:00:00Z,São Paulo FC,Casa,Empate,2,2,0,1,7
+2024-06-20T00:30:00Z,SC Internacional,Fora,Derrota,0,1,-1,0,7
+2024-06-23T19:00:00Z,CA Paranaense,Fora,Empate,1,1,0,1,8
+2024-06-26T23:00:00Z,Cuiabá EC,Casa,Empate,1,1,0,1,9
+2024-07-01T23:00:00Z,SE Palmeiras,Fora,Derrota,0,2,-2,0,9
+2024-07-04T23:00:00Z,EC Vitória,Casa,Vitória,3,2,1,3,12
+2024-07-07T19:00:00Z,Cruzeiro EC,Fora,Derrota,0,3,-3,0,12
+2024-07-10T22:00:00Z,CR Vasco da Gama,Fora,Derrota,0,2,-2,0,12
+2024-07-17T00:00:00Z,Criciúma EC,Casa,Vitória,2,1,1,3,15
+2024-07-21T19:00:00Z,EC Bahia,Fora,Vitória,1,0,1,3,18
+2024-07-25T23:00:00Z,Grêmio FBPA,Casa,Empate,2,2,0,1,19
+2024-07-28T22:00:00Z,CA Mineiro,Fora,Derrota,1,2,-1,0,19
+2024-08-04T19:00:00Z,EC Juventude,Casa,Empate,1,1,0,1,20
+2024-08-11T00:30:00Z,RB Bragantino,Casa,Empate,1,1,0,1,21
+2024-08-18T00:00:00Z,Fluminense FC,Fora,Empate,0,0,0,1,22
+2024-08-25T19:00:00Z,Fortaleza EC,Fora,Derrota,0,1,-1,0,22
+2024-09-01T19:00:00Z,CR Flamengo,Casa,Vitória,2,1,1,3,25
+2024-09-15T00:00:00Z,Botafogo FR,Fora,Derrota,1,2,-1,0,25
+2024-09-21T19:00:00Z,AC Goianiense,Casa,Vitória,3,0,3,3,28
+2024-09-29T19:00:00Z,São Paulo FC,Fora,Derrota,1,3,-2,0,28
+2024-10-05T22:00:00Z,SC Internacional,Casa,Empate,2,2,0,1,29
+2024-10-17T23:00:00Z,CA Paranaense,Casa,Vitória,5,2,3,3,32
+2024-10-28T22:00:00Z,Cuiabá EC,Fora,Vitória,1,0,1,3,35
+2024-11-04T23:00:00Z,SE Palmeiras,Casa,Vitória,2,0,2,3,38
+2024-11-09T19:30:00Z,EC Vitória,Fora,Vitória,2,1,1,3,41
+2024-11-20T14:00:00Z,Cruzeiro EC,Casa,Vitória,2,1,1,3,44
+2024-11-24T19:00:00Z,CR Vasco da Gama,Casa,Vitória,3,1,2,3,47
+2024-11-30T22:30:00Z,Criciúma EC,Fora,Vitória,4,2,2,3,50
+2024-12-03T23:00:00Z,EC Bahia,Casa,Vitória,3,0,3,3,53
+2024-12-08T19:00:00Z,Grêmio FBPA,Fora,Vitória,3,0,3,3,56
